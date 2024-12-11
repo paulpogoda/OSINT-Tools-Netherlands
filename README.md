@@ -7,7 +7,7 @@ Based on the [Awesome Dutch OSINT](https://github.com/sindresorhus/awesome). Rea
 ## Table of content:
  - [Open Data portals](#open-data-portals)
  - [Legal Entities](#legal-entities)
- - [Cadastral Maps](#maps)
+ - [Cadastral and other Maps](#maps)
  - [Vehicles](#vehicles)
  - [People, phones, social etc.](#people)
  - [Public procurements](#public-procurement)
