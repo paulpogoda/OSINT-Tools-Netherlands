@@ -4,7 +4,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 
 Based on the [Awesome Dutch OSINT](https://github.com/sindresorhus/awesome). Rearranded and updated for [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0). Fell free to join!
 
-## Table of content:
+## Table of contents:
  - [Open Data portals](#open-data-portals)
  - [Legal Entities](#legal-entities)
  - [Cadastral and other Maps](#maps)
