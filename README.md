@@ -74,7 +74,6 @@ Based on the [Awesome Dutch OSINT](https://github.com/sindresorhus/awesome). Rea
 - [OSINT Industries](https://app.osint.industries). Paid. Free plan for investigators
 - [Personal Records Database (BRP)](https://www.government.nl/topics/personal-data/personal-records-database-brp). Only organisations with a public or social function can access data held in the BRP. The Personal Records Database Act sets the rules for access. Organisations can only view data they need to do their work
 
-
 ## Public procurement
 - [TenderNed](https://www.tenderned.nl/cms/en/english/tenderned-dutch-governments-online-tendering-system)
 - [PIANOo](https://www.pianoo.nl/en/public-procurement-netherlands)
